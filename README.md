@@ -1,17 +1,18 @@
-# A2 Chat Application
+# 3813ICT Assignment2 
 
-## GIT Process Approach
+## GIT 
 
-The layout of GIT repo: it's a standard Angular project, and with backend Node/Express in server folder under Angular APP folder.
-The angular part has several compoents and routing and node side has all the api file with routing. 
+This project uses Git for version control management. First create a GitHub project, clone from the local to the previous branch. Save the data to the front end and everything is working properly and merged into the master. Use the following command to complete the version control work. Set name and email to be GitHub username and email
 
-The Process of version control is : Create a remote GitHub project, and clone one on local PC, branch from master for front end, and develop the front end with in-mermory data store, tested all ok, merge back to master, and then push backto remote in GitHub. Do the sam ething for the backend to build all the REST APIs, test each REST API in Postman to make sure they are all working as expected before commit and merge into master.  
+Git config --global user.name "vexx247"
+Git config --global user.email "528643470@qq.com"
+Cd 3813 - a2
+Git add
+Git commit -m
+Git push -u origin master
 
 ## Data Structures
 
-User entity has username as primary key, has stored the array of groups id for which the user belonbgs to. it also stores email address and another flaag to indicate if they are group admin themself.
-
-Group entity has an id as it primary key, and groupname.
 
 ## REST API
 ---
