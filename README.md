@@ -170,8 +170,7 @@ Success Response:
 
   Code:200 <br />
     Content:[{"username":"user1","email":"user1@user1.au","groupList":[],"adminGroupList":["g1","g2"],"ofGroupAdminsRole":true},      {"username":"","email":"paul@com.au","groupList":["g1","g2"],"adminGroupList":[],"ofGroupAdminsRole":true}]`
- 
-* **Error Response:**
+ Error Response:
 
   Code: 404 NOT FOUND <br />
     Content: `{ error : "Users are not found" }`
