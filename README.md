@@ -21,13 +21,11 @@ The user entity uses the username as the primary key and stores the array of gro
   Returns json data about all groups in the system.
 
 URL
-:api/groups
+:api/groups</br>
+Method:
 
-* **Method:**
-
-  `GET`
-  
-*  **URL Params**
+  GET</br>
+  URL Params</br>
 
   None
 
