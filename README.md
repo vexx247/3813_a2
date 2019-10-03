@@ -12,7 +12,7 @@ Git commit -m
 Git push -u origin master
 
 ## Data Structures
-
+![Image text](https://github.com/vexx247/3813_a2/blob/master/img/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-10-03%20%E4%B8%8B%E5%8D%881.55.07.png)
 
 ## REST API
 ---
