@@ -20,6 +20,7 @@ Git push -u origin master
 [Groups](groups.md)
 
 ## Angular Architecture
+![Image text](https://github.com/vexx247/3813_a2/blob/master/img/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-10-03%20%E4%B8%8B%E5%8D%881.27.36.png)
 
 Angular front end has a few components like login, groups and users, all the components located within the app shell, it also include groups, users and message services to do the data CRUD mapping, the message service is purely used for information or debguging purpose. 
 The models in Angular has user, group and channel which are reflected with the backend entities.
