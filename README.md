@@ -16,13 +16,12 @@ Git push -u origin master<br/>
 The user entity uses the username as the primary key and stores the array of group IDs to which the user belongs. It also stores the email address and another tag to indicate if they are a group administrator. A group entity has an ID as its primary key and group name.
 ## REST API
 ---
-**Get All Groups**
+**Groups**
 ----
   Returns json data about all groups in the system.
 
-* **URL**
-
-  api/groups
+URL
+:api/groups
 
 * **Method:**
 
