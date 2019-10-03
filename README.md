@@ -142,9 +142,7 @@ Success Response:
   Code: 404 NOT FOUND 
     Content:{ error : "Group couldn't be found" }
 
-  OR
-
-  Code: 401 UNAUTHORIZED <br />
+ 
     Content:{ error : "You are unauthorized to make this request." }
 Get All Users
 ----
